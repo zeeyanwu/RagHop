@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+
+# Local Knowledge Bases (Optional - usually don't commit large indexes)
+# But for reproduction/demo, maybe we keep small ones.
+# The user's code creates 'kb_index' and 'knowledge_bases'
+kb_index/
+knowledge_bases/
+
+# Logs
+*.log

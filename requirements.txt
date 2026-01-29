@@ -1,0 +1,10 @@
+gradio>=5.0.0
+numpy
+faiss-cpu
+python-dotenv
+openai
+pymupdf
+pandas
+openpyxl
+llama-index-core
+llama-index-readers-file
